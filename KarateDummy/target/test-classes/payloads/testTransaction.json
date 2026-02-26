@@ -1,0 +1,10 @@
+{
+  "txn_id": "123",
+  "customer_id": "CUST001",
+  "amount": 1000,
+  "currency": "INR",
+  "txn_date": "2025-08-28T10:15:30",
+  "status": "NEW",
+  "channel": "MOBILE",
+  "description": "Test transaction pushed via Karate"
+}

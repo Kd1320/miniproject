@@ -1,0 +1,2 @@
+txn_id,customer_id,amount,currency,txn_date,status,channel,description
+12314123423452345,CUST001,1000,INR,2025-08-28T10:15:30,NEW,MOBILE,Test transaction pushed via Karate

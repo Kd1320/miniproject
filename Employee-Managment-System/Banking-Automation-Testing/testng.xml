@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BankingSuite - Valid  Invalid">
+    <test name="All-Scenarios">
+        <classes>
+            <class name="bankingTests.LoginTest"/>
+            <class name="bankingTests.FundTransferTest"/>
+            <class name="bankingTests.AccountsTest"/>
+            <class name="bankingTests.TransactionTest"/>
+        </classes>
+    </test>
+</suite>
